@@ -1,3 +1,5 @@
+//Write a program to print the least number in given three numbers?
+
 var a=10
 var b=1000
 var c=100

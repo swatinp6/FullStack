@@ -1,3 +1,4 @@
+//Write a program to print the greatest number in given two numbers?
 var a=10
 var b=3
 if(a>b){

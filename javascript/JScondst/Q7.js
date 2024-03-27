@@ -1,3 +1,5 @@
+//Write a program to print the least number given two numbers?
+
 var a=10
 var b=3
 if(a<b){
