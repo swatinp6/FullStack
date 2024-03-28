@@ -1,7 +1,5 @@
 //Write a program to print the given 3 numbers in ascending orders?
-var x = 100;
-var y = 20;
-var z = 40;
+var x = 100,y = 20,z = 40;
 
 // ascending order
 if (x < y && x < z) {

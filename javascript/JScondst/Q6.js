@@ -1,6 +1,5 @@
 //Write a program to print the greatest number in given two numbers?
-var a=10
-var b=3
+var a=10,b=3
 if(a>b){
     console.log(a + " is greater than "  +  b);
     // console.log("a is greater than b");
