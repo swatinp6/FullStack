@@ -1,6 +1,6 @@
 //Write a program to print the least number in given three numbers?
 
-var a=10,b=1000,c=100
+var a=-10,b=1000,c=100
 if(a==b && b==c && c==a){
     console.log("All are equal");
 
