@@ -1,0 +1,10 @@
+let arraylist=[1,2,2,3,4,6,5,8,9,9];
+let maxarray=Math.max(...arraylist);
+console.log(maxarray);
+//let numarray=[1,2,3,4,2,4,2,4,9];
+//let duplicatesarray=[...new Set(numarray)];
+//console.log(duplicatesarray);
+//console.log(numarray.sort().reverse());
+//var ename=["abc","efg","ghi"];
+//var newnames=ename.map(element=>element.charAt(0).toUpperCase()+element.slice(1));
+//console.log(newnames);
